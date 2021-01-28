@@ -1,7 +1,32 @@
-# init-swift
+Init Swift
+
+<p align="center">
+  <a href="https://flutter.io/">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" alt="Logo" width=72 height=72>
+  </a>
+
+  <h3 align="center">Flutter Init Project</h3>
+
+  <p align="center">
+    Fork this project then start you project with a lot of stuck prepare
+    <br>
+    Base project made with much  :heart: . Contains CRUD, patterns, and much more!
+    <br>
+    <br>
+    <a href="https://github.com/PingAK9/init-swift/issues/new">Report bug</a>
+    ·
+    <a href="https://github.com/PingAK9/init-swift/issues/new">Request feature</a>
+  </p>
+</p>
+
+
+# Content
 - [Architecting iOS Project](#architecting-ios-project)
 - [Conventions](#conventions)
 - [Dependencies](#dependencies)
+- [Widget](#widget)
+
+- Find more [Awesome iOS](https://github.com/vsouza/awesome-ios)
 
 # Architecting iOS Project
 
@@ -101,12 +126,10 @@ Similar to SDWebImage, Kingfisher is a library for downloading and caching image
 
 Other [SDWebImage](https://github.com/rs/SDWebImage)
 
-## MBProgressHUD
-- https://github.com/jdg/MBProgressHUD
+## Toast and snackber
+- [Toast-Swift](https://github.com/scalessec/Toast-Swift)
 
-MBProgressHUD is another useful library that fills a big hole in UIKit. This popular iOS developer library provides a class that displays a heads-up display (HUD) with a spinner, text, or images to show loading, progress, success/failure, or any other alerts to the user. Since iOS has long lacked a native HUD component
-
-Other [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)
+Toast-Swift is a Swift extension that adds toast notifications to the UIView object class. It is intended to be simple, lightweight, and easy to use. Most toast notifications can be triggered with a single line of code.
 
 ## SnapKit
 - https://github.com/SnapKit/SnapKit
@@ -149,11 +172,10 @@ Other: [DateHelper](https://github.com/melvitax/DateHelper) - Convenience extens
 
 # Widget
 ## Snackbar
+- [Toast-Swift](https://github.com/scalessec/Toast-Swift)
 - [BRYXBanner](https://github.com/bryx-inc/BRYXBanner)
 - [GSMessages](https://github.com/wxxsw/GSMessages)
 - [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
-- [CRToast](https://github.com/cruffenach/CRToast)
-- [Toast-Swift](https://github.com/scalessec/Toast-Swift)
 - [Toaster](https://github.com/devxoul/Toaster)
 - [NotificationBanner](https://github.com/Daltron/NotificationBanner)
 
