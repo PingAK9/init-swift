@@ -138,4 +138,31 @@ Realm is an enticing, cross-platform alternative to Core Data when it comes to p
 - [Beginning Realm on iOS](https://www.raywenderlich.com/4146-beginning-realm-on-ios/lessons/1)
 - [Intermediate Realm on iOS](https://www.raywenderlich.com/4200-intermediate-realm-on-ios/lessons/1)
 
+## SwiftDate 
+- https://github.com/malcommac/SwiftDate
+Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.
 
+Other: [DateHelper](https://github.com/melvitax/DateHelper) - Convenience extension for NSDate in Swift.
+
+## Alert & Action Sheet
+- [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift) - Beautiful animated Alert View, written in Swift.
+
+# Widget
+## Snackbar
+- [BRYXBanner](https://github.com/bryx-inc/BRYXBanner)
+- [GSMessages](https://github.com/wxxsw/GSMessages)
+- [SwiftyDrop](https://github.com/morizotter/SwiftyDrop)
+- [CRToast](https://github.com/cruffenach/CRToast)
+- [Toast-Swift](https://github.com/scalessec/Toast-Swift)
+- [Toaster](https://github.com/devxoul/Toaster)
+- [NotificationBanner](https://github.com/Daltron/NotificationBanner)
+
+## Dialog
+- [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)
+- [CleanyModal](https://github.com/loryhuz/CleanyModal)
+- [XLActionController](https://github.com/xmartlabs/XLActionController)
+- [PMAlertController](https://github.com/pmusolino/PMAlertController)=
+
+## Badge
+- [MIBadgeButton-Swift](https://github.com/mustafaibrahim989/MIBadgeButton-Swift)
+- [BadgeHub](https://github.com/jogendra/BadgeHub)]
